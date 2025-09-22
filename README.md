@@ -38,22 +38,30 @@ De speler heeft 20 levens, waarvan als je tot het volgende level wilt komen je t
 Beetles zijn insecten met een dik pantser die hun beschermd tegen vijanden zoals toren, daarom hebben deze vijanden van de speler veel health, maar omdat ze dit pantser hebben zijn zo ook erg traag. Torens zoals de Paleontologist Tower zijn erg goed tegen deze vijand.
 
 Scarab Beetle: Rather Fast, 1 leven, 25 health
+
 Golden Beetle: Rather Fast, 1 leven, 100 health
+
 Rhino Beetle: Slow, 2 levens, 250 health
+
 Mysterie Vijand: Very Slow, 20 levens, 2500 health, spawns in 2 Rhino beetles per 10 seconds.
 
 ### Snakes
 Snakes zijn reptielen met een glibberige huid waardoor ze sneller zijn dan andere vijanden, maar door deze huid zijn ze echt kwetsbaar en bennen ze weinig health. Snakes komen in verschillende groottes, hoe groter de slang hoe trager maar ook hoe meer health. Snakes komen vaak in grote nummers, dit is zo omdat het zulke zwakke vijanden zijn dat ze een grote bedreiging vormen als er een grote groep van is. Torens zoals de Guardians Hut zijn goed tegen slang door dat deze toren erg snel schiet.
 
 Emerald Snake: Fast,  1 leven, 10 health.
+
 Sand Snake: Fast, 1 leven, 30 health.
+
 Dune Snake: Rather Fast, 2 levens, 80 health.
 
 
 ### Gameplay loop
 De bedoeling van de speler is het verdedigen van het einde van het pad, dit kan de speler alleen doen door torens te plaatsen. Maar dit is niet een eenvoudig spel, de speler moet er voor zorgen dat ze goed om kunnen gaan met hun geld en zorgvuldige keuzes maken over wat ze waar plaatsen met hun geld. De stappen om dit spel succes te kunnen spelen staan hieronder.
+
 1.	De speler start het level met een bepaald bedrag dat ze kunnen spenderen aan torens.
+
 2.	De speler plaats de toren op plekken waar die gene denkt dat het goed het pad zou verdedigen en start daarna de eerste wave van vijanden.
+
 3.	De speler zorgt er voor dat de torens zo veel mogelijk vijanden dood maken zodat ie geld krijgt om meer toren te plaatsen of te upgraden. 
 
 
